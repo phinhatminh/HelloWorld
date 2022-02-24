@@ -10,6 +10,9 @@ typedef struct dogs_s
     unsigned int age;
     unsigned int pattern;
     unsigned int child;
+    unsigned int dog1;
+    unsigned int dog3;
+
 }DOGS;
 
 extern DOGS superDog;
