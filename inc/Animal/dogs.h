@@ -11,7 +11,10 @@ typedef struct dogs_s
     unsigned int pattern;
     unsigned int child;
     unsigned int dog1;
+    unsigned int dog21232;
     unsigned int dog3;
+    char ID;
+
 
 }DOGS;
 
