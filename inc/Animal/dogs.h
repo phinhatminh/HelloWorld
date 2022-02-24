@@ -9,6 +9,7 @@ typedef struct dogs_s
     COLORS color;
     unsigned int age;
     unsigned int pattern;
+    asdjaksjdhasd
 }DOGS;
 
 extern DOGS superDog;
