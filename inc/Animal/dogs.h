@@ -8,6 +8,7 @@ typedef struct dogs_s
     char* name;
     COLORS color;
     unsigned int age;
+    unsigned int pattern;
 }DOGS;
 
 extern DOGS superDog;
